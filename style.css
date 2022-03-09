@@ -1,0 +1,24 @@
+.container {
+  background-color: lightskyblue;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+.card {
+  background-color: blueviolet;
+  width: 400px;
+  height: 200px;
+  border-width: 4px;
+  box-shadow: 3px 5px 9px red;
+}
+.card2 {
+  background-color: darkgoldenrod;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc,
+    0 5px 0 #ccc, 0 6px 0 #ccc, 0 7px 0 #ccc, 0 8px 0 #ccc, 0 9px 0 #ccc,
+    0 10px 0 #ccc, 0 11px 0 #ccc, 0 12px 0 #ccc, 0 20px 30px rgba(0, 0, 0, 0.5);
+}
